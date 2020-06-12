@@ -3,7 +3,7 @@
 ### In this project, we will discover how to recreate the famous Snapchat application in react with a mobile version in native react.
 
 ### For the launch of the application, the READMEs are available in the front-end / back-end files
-
+#### This project was carried out in a team with Priscilla Joly, Zacharie Bizimana and Belinda Boudra
 ##### It is a question here of recreating the basic functionalities (contacts, camera, photos with duration etc ...)
 ##### So I let you discover the front below.
 
