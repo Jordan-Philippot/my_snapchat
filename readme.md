@@ -1,6 +1,9 @@
 # my_snapchat
 ## Welcome to my_snapchat!
 ### In this project, we will discover how to recreate the famous Snapchat application in react with a mobile version in native react.
+
+### For the launch of the application, the READMEs are available in the front-end / back-end files
+
 ##### It is a question here of recreating the basic functionalities (contacts, camera, photos with duration etc ...)
 ##### So I let you discover the front below.
 
@@ -17,4 +20,5 @@
 
 ![PictureSnapchat](https://user-images.githubusercontent.com/60606478/84536152-85c92500-aced-11ea-9a89-3675e667dbf6.png)
 
- Good navigation ! :)
+
+### Good navigation ! :)
